@@ -19,5 +19,11 @@ This syringe pump design and prototype was the final project for my introductory
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43044e1d5931769ce5?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
+# Components
+## off-the-shelf
+|[200 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1)   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
 
