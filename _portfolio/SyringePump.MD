@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Syringe Pump"
+excerpt: "An open source design for a syringe pump."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
