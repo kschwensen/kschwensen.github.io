@@ -21,7 +21,7 @@ This syringe pump design and prototype was the final project for my introductory
 
 # Components
 ## off-the-shelf
-|[200 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1)   |   |
+|[200 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1)   |  <img title="Lead Screw" alt="Alt text" src="/images/boo.svg"> |
 |---|---|
 |   |   |
 |   |   |
