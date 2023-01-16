@@ -2,12 +2,8 @@
 title: "Syringe Pump"
 excerpt: "An open source design for a syringe pump."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  image: /assets/img/20221212_142535.jpg
+  teaser: /assets/img/Assembly_Final_2022-Dec-13_04-11-57AM-000_CustomizedView10062345548.png
    
 ---
 
