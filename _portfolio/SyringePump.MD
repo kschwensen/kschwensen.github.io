@@ -42,7 +42,7 @@ This syringe pump design and prototype was the final project for my introductory
 | Linked Part| Quantity|
 |---|---|
 | [Motor Mount](https://a360.co/3H6mjzP) | 1|
-|[Plunger Pusher]([](https://a360.co/3Wku8pU))|1|
+|[Plunger Pusher](https://a360.co/3Wku8pU)|1|
 |[Syringe Holder](https://a360.co/3Wku8pU)|1|
 |[Box](https://a360.co/3GIQvj3)|1|
 |[Lid](https://a360.co/3iJwKQA)|1|
