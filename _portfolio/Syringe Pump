@@ -10,8 +10,9 @@ gallery:
   - image_path: assets/img/Slide-4.png
    
 ---
-## Features
-* **hello**
+# Features
+
+* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
 * **Accurate Flow Rates** The flow rate is controlled by the rotation of a lead screw initiated by a stepper motor. Our system can accurately achieve flow rates between 0.5 and 10 mL per minute.
 * **Minimalistic Design** A key feature of this system is the minimalism associated with the 3D printed parts. Our team wanted this pump to be portable and low-profile for seamless integration into medical applications, as such thin holders move the syringe pump along the lead screw. 
 * **Open Source Design**  A key feature of our design was its ability to affordably be replicated, costing less than $50 paired with detailed open source documentation our syringe pump is accessible for real-world application.
