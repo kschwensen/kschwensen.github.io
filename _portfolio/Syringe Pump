@@ -4,11 +4,7 @@ excerpt: "An open source syringe pump capable of pumping precise volumes of liqu
 header:
   image: /assets/img/20221212_142535.jpg
   teaser: /assets/img/Assembly_Final_2022-Dec-13_04-11-57AM-000_CustomizedView10062345548.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
-   
+
 ---
 # Features
 
@@ -22,5 +18,3 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43044e1d5931769ce5?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-
-{% include gallery caption="Syringe Pump Assembly" %}
