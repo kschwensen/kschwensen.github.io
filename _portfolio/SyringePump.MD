@@ -39,9 +39,13 @@ This syringe pump design and prototype was the final project for my introductory
 
 ## 3D printed
 
-|Part| CAD Model|
+| Linked Part| Quantity|
 |---|---|
-| Motor Mount | <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43560f06d0dc002fa3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>|
+| [Motor Mount](https://a360.co/3H6mjzP) | 1|
+|[Plunger Pusher]([](https://a360.co/3Wku8pU))|1|
+|[Syringe Holder](https://a360.co/3Wku8pU)|1|
+|[Box](https://a360.co/3GIQvj3)|1|
+|[Lid](https://a360.co/3iJwKQA)|1|
 
 
 
