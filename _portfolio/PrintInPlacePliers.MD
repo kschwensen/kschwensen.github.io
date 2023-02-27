@@ -21,6 +21,7 @@ This project resulted from a culmination of knowledge and skill in my additive m
 
 # Printed Part
 ![Printed Part](/assets/img/PrintInPlacePliers.jpg)
+
 # Design Considerations
 
 The core of this design consists of two rigid handles and corresponding jaws printed with PLA which are connected with a wavy circle printed out of 95A TPU. A key aim of this project was to create a design that could exert a considerable amount of force, as such the handles are rigidly connected to each jaw ( as opposed to a flexible TPU connection). The wavy TPU connection allows the handles to rotate over their axis as the pliers are used, and keeps the PLA pieces in the correct orientation relative to one another. The waves give the TPU extra capability to stretch and compress resulting in a smooth motion. This feature was created in Fusion 360 by first creating a spline and then patterning the spline around the axis of rotation for the pliers. The extruded spline is 6 mm when connecting parts and is retained within the handles and jaw with a continuing 2 mm extrusion embedded in the PLA part. This pattern was subsequently offset and extruded as a separate body. Further, the orientation of the jaws and handles is such that when applying full compression, the jaws are able to close completely with some remaining angular separation in between the handles (i.e. the handles will never collide before the jaws).
@@ -38,4 +39,5 @@ Length of Jaw: 13.5 mm
 
 # Print Settings
 This print was sliced in the super slicer program with the specifications for the MakerGear M3 Independent Dual Extrusion 3D Printer could be loaded into super slicer with configuration files. To print with both materials different filament settings were loaded which included a slower speed and a “FLEX” designation for TPU. In addition, a wipe tower was enabled to prevent stringing materials are switched and make sure the line is fully primed before printing. See the configuration file below for more information. 
+[Link to Configuration File](/assets/SyringePump.ino)
 
