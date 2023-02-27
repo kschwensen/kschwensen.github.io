@@ -1,56 +1,39 @@
 ---
-title: "Syringe Pump"
-excerpt: "An open source design for a syringe pump."
+title: "Print in Place Pliers"
+excerpt: "A multi-material 3D print"
 header:
   image: /assets/img/20221212_142535.jpg
   teaser: /assets/img/Assembly_Final_2022-Dec-13_04-11-57AM-000_CustomizedView10062345548.png
    
 ---
 
-This syringe pump design and prototype was the final project for my introductory digital fabrication course. As a team, we created a CAD model of the system, wrote the Arduino code to easily control the system, and build a functional prototype. 
+This project resulted from a culmination of knowledge and skill in my additive manufacturing class—the print-in-place pliers leverage multi-material 3D printing technology.
 
-# Features
+# Key Features
 
-* **Accurate Flow Rates** The flow rate is controlled by the rotation of a lead screw initiated by a stepper motor. Our system can accurately achieve flow rates between 0.5 and 10 mL per minute.
-* **Minimalistic Design** A key feature of this system is the minimalism associated with the 3D printed parts. Our team wanted this pump to be portable and low-profile for seamless integration into medical applications, as such thin holders move the syringe pump along the lead screw. 
-* **Open Source Design**  A key feature of our design was its ability to affordably be replicated, costing less than $50 paired with detailed open source documentation our syringe pump is accessible for real-world application.
+* **No assembly required** The key feature of this print is the use of a multi-material printer in order to create flexible components for the spring action on the pliers. As a result, this design is functional directly off the print bed!
+* **Durable for repeated use**The design takes into consideration the frequent use of these pliers, thus no thin - easily broken - components exist in this design. 
+* **Open Source Design** Additionally, the design and printing parameters are all open source, allowing anyone who has a multi-material printer to replicate this print. 
 
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43044e1d5931769ce5?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43117d2bfaff09a0e8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Components
-## off-the-shelf
+# Design Considerations
 
-| Linked Part | Quantity |
-|---|---|
-|  [200 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1)  | 1 |
-|  [250 mm lead screw with 2 mm pitch and 8 mm lead](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) |  1  |
-|  [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3)| 1 |
-| [2040 Aluminum Extrusion 1' Length](https://www.mcmaster.com/5537T111-5537T705/)| 1 |
-| [Nema 17 Stepper Motor](https://amzn.to/3uhifWk) | 1 |
-|[Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ)| 1 |
-|[MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?)| 1 |
-|[A4988 Stepper Driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?)| 1 |
-|[Small Breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?)| 1 |
-|[Panel Mount Latching Push Buttons](https://amzn.to/3VxQ29h)|1|
-|[Limit Switch](https://amzn.to/3Veb1Ox)|1|
-|[RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?)|1|
+The core of this design consists of two rigid handles and corresponding jaws printed with PLA which are connected with a wavy circle printed out of 95A TPU. A key aim of this project was to create a design that could exert a considerable amount of force, as such the handles are rigidly connected to each jaw ( as opposed to a flexible TPU connection). The wavy TPU connection allows the handles to rotate over their axis as the pliers are used, and keeps the PLA pieces in the correct orientation relative to one another. The waves give the TPU extra capability to stretch and compress resulting in a smooth motion. This feature was created in Fusion 360 by first creating a spline and then patterning the spline around the axis of rotation for the pliers. The extruded spline is 6 mm when connecting parts and is retained within the handles and jaw with a continuing 2 mm extrusion embedded in the PLA part. This pattern was subsequently offset and extruded as a separate body. Further, the orientation of the jaws and handles is such that when applying full compression, the jaws are able to close completely with some remaining angular separation in between the handles (i.e. the handles will never collide before the jaws).
 
-## 3D printed
+# Final Print Dimensions 
 
-| Linked Part| Quantity|
-|---|---|
-| [Motor Mount](https://a360.co/3H6mjzP) | 1|
-|[Plunger Pusher](https://a360.co/3Wku8pU)|1|
-|[Syringe Holder](https://a360.co/3Wku8pU)|1|
-|[Box](https://a360.co/3GIQvj3)|1|
-|[Lid](https://a360.co/3iJwKQA)|1|
+The theoretical dimensions of the model can be found in the linked CAD model. However, the flexibility of the TPU allows for some flexibility in the parameters, as a result, the dimensions of the final model were measured with calipers. 
 
-# Arduino Code
-[Link to Arduino Code](/assets/SyringePump.ino)
+Maximum Jaw Capacity: 10.8 mm
+Normal Jaw Capacity: 5.25 mm
 
-# Operating Instructions
+Maximum Jaw Angle: 18 degrees
+Normal Jaw Angle: 10 degrees 
+Length of Jaw: 13.5 mm
 
-To set the flow rate - in mL per min - adjust the variable called flow_rate to the desired flow rate in the first line of the Arduino code under the //Global variables section. Next, set the variable is_twenty to true or false depending on whether the 20 ml syringe is being used. The black button on the side of the box controls the state of the syringe pump. If the latching button is pressed, the pump pauses. If the button is unlocked the pump resumes. When running, the syringe will move at the set rate until it is out of liquid and stops. An LED on the side of the enclosure serves as a visual reference for the syringe’s operational state: green - actively running, yellow - paused, red - out of liquid. Manual adjustments, if necessary, can be made using the white button to rotate the screw clockwise or the blue button to rotate the screw counterclockwise. Note that the pump must be paused or off to activate these manual rotation buttons.
+# Print Settings
+This print was sliced in the super slicer program with the specifications for the MakerGear M3 Independent Dual Extrusion 3D Printer could be loaded into super slicer with configuration files. To print with both materials different filament settings were loaded which included a slower speed and a “FLEX” designation for TPU. In addition, a wipe tower was enabled to prevent stringing materials are switched and make sure the line is fully primed before printing. See the configuration file below for more information. 
 
