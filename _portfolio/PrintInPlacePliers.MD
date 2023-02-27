@@ -39,5 +39,5 @@ Length of Jaw: 13.5 mm
 
 # Print Settings
 This print was sliced in the super slicer program with the specifications for the MakerGear M3 Independent Dual Extrusion 3D Printer could be loaded into super slicer with configuration files. To print with both materials different filament settings were loaded which included a slower speed and a “FLEX” designation for TPU. In addition, a wipe tower was enabled to prevent stringing materials are switched and make sure the line is fully primed before printing. See the configuration file below for more information. 
-[Link to Configuration File](/assets/SyringePump.ino)
+[Link to Configuration File](/assets/Multi Material Config File.ini)
 
