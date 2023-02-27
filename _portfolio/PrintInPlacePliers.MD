@@ -2,7 +2,7 @@
 title: "Print in Place Pliers"
 excerpt: "A multi-material 3D print"
 header:
-  image: /assets/img/20221212_142535.jpg
+  image: /assets/img/Close-Up Pliers.jpg
   teaser: /assets/img/FusionPliers.png
    
 ---
