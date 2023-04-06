@@ -1,13 +1,12 @@
 
 ---
-title: "Microfluidic Devices"
-excerpt: "A SLS molded microfluidic pinched flow separation device"
+title: "Print in Place Pliers"
+excerpt: "A multi-material 3D print"
 header:
-  image: /assets/img/FlowDiagram.png
-  teaser: /assets/img/FlowDiagram.png
+  image: /assets/img/Close-Up Pliers.jpg
+  teaser: /assets/img/FusionPliers.png
    
 ---
-
 
 
 The goal of this project was to showcase how SLA 3D printing can be used to create molds for microfluidic device casting. 
