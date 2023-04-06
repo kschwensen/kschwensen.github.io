@@ -1,6 +1,6 @@
 
 ---
-title: "Print in Place Pliers"
+title: "Microfluidics"
 excerpt: "A multi-material 3D print"
 header:
   image: /assets/img/Close-Up Pliers.jpg
