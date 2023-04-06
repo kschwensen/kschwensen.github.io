@@ -3,8 +3,8 @@
 title: "Microfluidic Devices"
 excerpt: "A SLS molded microfluidic pinched flow separation device"
 header:
-  image: /assets/img/Close-Up Pliers.jpg
-  teaser: /assets/img/FusionPliers.png
+  image: /assets/img/FlowDiagram.png
+  teaser: /assets/img/FlowDiagram.png
    
 ---
 
@@ -24,7 +24,7 @@ When designing our microfluidic mold, there were several parameters that we took
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Printed Part
-![Printed Part](/assets/img/PrintInPlacePliers.jpg)
+![Flow Diagram](/assets/img/FlowDiagram.png)
 
 
 
