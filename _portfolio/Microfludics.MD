@@ -24,7 +24,8 @@ When designing our microfluidic mold, there were several parameters that we took
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Printed Part
-![Flow Diagram](/assets/img/FlowDiagram.png)
 
 
+![Figure 1: Theory of Pinch Flow Separation](/assets/img/PinchFlow.png)
+![Figure 2: Flow Diagram](/assets/img/FlowDiagram.png)
 
