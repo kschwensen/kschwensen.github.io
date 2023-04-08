@@ -3,7 +3,7 @@ title: "Microfluidic Device"
 excerpt: "Application of SLA printing to Prototype MicroFluidic Devices"
 header:
   image: /assets/img/PinchFlow.png
-  teaser: /assets/img/FusionPliers.png
+  teaser: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
    
 ---
 
