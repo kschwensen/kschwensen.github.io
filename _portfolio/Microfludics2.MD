@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "Application of SLA printing to Prototype MicroFluidic Devices"
 header:
-  image: /assets/img/Close-Up Pliers.jpg
+  image: /assets/img/PinchFlow.png
   teaser: /assets/img/FusionPliers.png
    
 ---
