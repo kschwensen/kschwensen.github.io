@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "Application of SLA printing to Prototype MicroFluidic Devices"
 header:
-  image: /assets/img/PinchFlow.png
+  image: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
   teaser: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
    
 ---
@@ -22,9 +22,9 @@ When designing our microfluidic mold, there were several parameters that we took
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Printed Part
-![Dimensioned Drawing](/assets/img/FlowDiagram.png)
 
-![Pinch Flow Diagram](/assets/img/PinchFlow.png)
+![Figure 2: Pinched Flow Fractioning Diagram (Yamada et al. 2004)](/assets/img/PinchFlow.png)
 
+![Figure 3: Dimensioned Drawing](/assets/img/FlowDiagram.png)
 
 
