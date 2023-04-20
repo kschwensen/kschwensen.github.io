@@ -1,12 +1,13 @@
 
 ---
-title: "Large Format 3D Printing and Generative Design"
-excerpt: "Applications of generative design in Fusion 360 in a large format printing context"
+title: "Microfluidic Device"
+excerpt: "Application of SLA printing to Prototype MicroFluidic Devices"
 header:
   image: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
   teaser: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
    
 ---
+
 
 The goal of this project was to explore the potential for generative design technology to be used to make a full-sized podium to be printed on a large format 3D printer. Here generative design is a practical choice as it uses multiple iterations in order to minimize the mass required to meet a certain safety standard and provide structural stability. Since the large format printer inherently takes a long time and produces heavy objects, any optimizations that can be made are especially helpful!
 
