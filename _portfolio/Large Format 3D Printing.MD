@@ -25,5 +25,5 @@ In order to make the model for the podium in Fusion 360, I first modeled the pre
 
 ## A scaled down model of the podium printed without supports (dinosaurs for scale)
 ![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium1.jpg)
-
+![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium2.jpg)
 
