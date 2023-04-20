@@ -21,8 +21,8 @@ In order to make the model for the podium in Fusion 360, I first modeled the pre
 
 # Printed Part
 
-![Figure 2: Pinched Flow Fractioning Diagram (Yamada et al. 2004)](/assets/img/PinchFlow.png)
+![Rendered 3D model of the Podium)](/assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png)
 
-![Figure 3: Dimensioned Drawing](/assets/img/FlowDiagram.png)
+![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium1.jpg)
 
 
