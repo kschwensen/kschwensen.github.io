@@ -19,10 +19,11 @@ In order to make the model for the podium in Fusion 360, I first modeled the pre
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e12a616d4c661f0c3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Printed Part
+## Rendered Part
 
 ![Rendered 3D model of the Podium)](/assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png)
 
+## A scaled down model of the podium printed without supports (dinosaurs for scale)
 ![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium1.jpg)
 
 
