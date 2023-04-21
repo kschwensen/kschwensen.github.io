@@ -2,8 +2,8 @@
 title: "Large Format 3D Printing and Generative Design"
 excerpt: "Application of generative design to large format 3D printing for load bearing structures"
 header:
-  image: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
-  teaser: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
+  image: /assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png
+  teaser: /assets/img/DinoPodium1.jpg
    
 ---
 # Objective
@@ -26,4 +26,7 @@ In order to make the model for the podium in Fusion 360, I first modeled the pre
 ## A scaled down model of the podium printed without supports (dinosaurs for scale)
 ![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium1.jpg)
 ![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium2.jpg)
+
+# Research and Discussion
+
 
