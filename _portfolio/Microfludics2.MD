@@ -21,19 +21,32 @@ When designing our microfluidic mold, there were several parameters that we took
 
 # Development Workflow
 
-The process of creating this device was relatively straightforward. We started with a CAD model designed in Fusion 360 of the negative of our final desired microfluidic device. We used the Form 3 printer in order to print our model with 25 micron resolution and full supports (to prevent warping). After washing we cured our model with the supports on (again to prevent warping) and finally coated the device with a thin layer of waxy parylene. After coating, we filled the molds with PDMS and let them cure overnight. From this point on, we mounted our devices on a glass slide and connected the device to our previously developed syringe pump. 
+The process of creating this device was relatively straightforward. We started with a CAD model designed in Fusion 360 of the negative of our final desired microfluidic device. We used the Form 3 printer in order to print our model with 25 micron resolution and full supports (to prevent warping). After washing we cured our model with the supports on (again to prevent warping) and finally coated the device with a thin layer of waxy parylene. After coating, we filled the molds with PDMS and let them cure overnight. From this point on, we mounted our devices on a glass slide with a plasma treater. The process created covalent bonds between the glass slide and the PDMS, which will prevent liquids from leaking out. To test our device we connected syringes to our access ports. This apparatus is compatible with our previously developed syringe pump, which allows us to specifically control the flow rate entering. 
 
 # Testing Apparatus
 
+The success of our model was preliminary investigated with a simple set up in which we attempted to separate 60 micron spherical particles (white). One inlet contained pure water while the other contained a visible cloudy solution of the particles in water. Both streams were fed to the device at similar flow rates. The outlet ports were collected in a 96 well plate (Figure **). As is visible in the image, one outlet contained particles while the other did not. Since we do not have other sizes, it is difficult to compare the ability of our device to separate particles of different sizes as shown in figure **. In the future, we are going to procure labeled beads of known sizes ranging from 20 microns to 80 micron and evaluate the separation underneath a microscope. 
+
+# Conclusions
+
+Overall, we can conclude that our device was successfully modeled and fabricated. The channels support laminar fluid flow without major introduction of air bubbles. The device shows preliminary evidence that it is able to separate particles of different sizes, however, more testing is needed in order to definitively determine this. Generally, this workflow was successful in the development of microfluidic devices and could be used for future projects with biomedical and chemical engineering applications. 
 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Printed Part
+## Figure 1: Pinched Flow Fractioning Diagram (Yamada et al. 2004)
 
-![Figure 2: Pinched Flow Fractioning Diagram (Yamada et al. 2004)](/assets/img/PinchFlow.png)
+![Figure 1: Pinched Flow Fractioning Diagram (Yamada et al. 2004)](/assets/img/PinchFlow.png)
 
-![Figure 3: Dimensioned Drawing](/assets/img/FlowDiagram.png)
+## Figure 2: Dimensioned Drawing
+![Figure 2: Dimensioned Drawing](/assets/img/FlowDiagram.png)
 
+## Figure 3: Model cast in PDMS
+![Figure 3: Model cast in PDMS](/assets/img/Fluidic3.jpg)
 
+## Figure 4: Testing Apparatus 
+![Figure 4: Model cast in PDMS](/assets/img/Fluidic1.jpg)
+
+## Figure 5: Results (White bead outflow on the right wells, pure solvent outflow on the left wells)
+![Figure 4: Model cast in PDMS](/assets/img/Fluidic2.jpg)
