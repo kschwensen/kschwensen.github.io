@@ -49,6 +49,10 @@ Given this background information, the synergy between large format cement print
 
 The future of this field will involve additional methods and technologies which are able to better integrate reinforced concrete into the generative design and large format 3D printing workflow. For example, Yassin et al. - previously mentioned - proposed a method of 3D printing internal steel reinforcements in order to match the abstract generative design of the concrete structure. Methods such as these which seek to improve the functionality of 3D printed concrete structures will make this solution more affordable and practical for a wider array of applications. Generative design -which allows for multiple materials -  would be specifically well suited to model these kinds of applications. Long term, I expect that more aspects of construction will utilize an integrated GD, 3D printing workflow!
 
+### Figure 1: The modular unit for the emergency shelter - optimized with generative design for large scale cement 3D printing (9)
+![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/Shelter_Modular_Unit.png)
+
+
 ## Citations:
 
 1) Abdallah, Hussein, Farah Ezzedine, Angela Haddad, Ghadeer Salami, Hala Sanboskani, Mayssa Dabaghi, and Farook Hamzeh. “Employing Generative Design for Sustainable Construction.” In Proceedings of the Creative Construction Conference 2019, 692–98. Budapest University of Technology and Economics, 2019. https://doi.org/10.3311/CCC2019-095.
