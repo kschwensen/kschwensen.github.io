@@ -2,50 +2,40 @@
 title: "SLS + Generative Design of a skateboard hanger"
 excerpt: "Application of SLS and generative design to printing to create a skateboard hanger"
 header:
-  image: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
-  teaser: /assets/img/Pinch_Flow_Fractioning_2023-Apr-06_04-16-12PM-000_CustomizedView11407643201_png.png
+  image: /assets/img/Hanger.png
+  teaser: /assets/img/Hanger.png
    
 ---
 
-The goal of this project was to showcase how SLA 3D printing can be used to create molds for microfluidic device casting. 
+The objective of this project was to leverage generative design in order to develop an optimized model for the hanger of a skateboard. The design was generated with selective laser sintering  (SLS) powder bed fusion being the final additive manufacturing technique to be used. 
+
+# Generative Design Constraints
+
+The design was initiated by creating preserved geometries off of an existing STEP file for the skateboard undercarriage assembly. This allowed new key preserved geometries to be extruded on top of existing features, additionally the existing pieces could be used as obstacles in the generative design workspace. There were four key preserved geometries that were created: the peg for the pivot cup, the connector to the kingpin, and the two hollow cylinders for the axle to fit through. The remainder of the objects in the assembly, excluding the hanger, were used as obstacles in the generative design space. This ensured that the generative design would not encroach on the rubber brushes, baseplate, or axle. An additional obstacle was created wrapping around the end of the axle to give the required 17 mm clearance to the wheels. Once all of the geometry was assigned, a load through the peg and the connector of 1000 N each was applied. This load case was loosely modeled on the force that a rider would exert  2000 newtons of force on one axle during a trick. This would only occur with a heavy rider and additional acceleration from tricks. Further, a 600 N force 90 degrees from normal was placed on either of the axle couplers to account for forces when the rider is turning. Since SLS printing is being used in this case, the manufacturing method was defined as unrestricted since no supports are required for pSLS. The results of the generative design are displayed in Figure 1,2,and 3. 
+
+# pSLS
+
+The generative design was printed with polymer SLS (pSLS) with the Formlabs Fuse1 using Nylon12 60 micron powder. pSLS is an ideal method of printing generative designs as it does not have limitations on overhang angles and produces parts with limited anisotropy. The final printed part can be seen in Figure 4.
 
 
-Microfluidic devices are an invaluable tool when conducting precise experiments on small volumes of fluids and are routinely used in the biomedical and research industry. Many diagnostic, biological assays, and environmental assays rely on size based separation of certain distinctive molecules. Microflow devices provide an elegant solution to this problem, providing continuous, small scale, and affordable separation. 
-
-# Theory
-The device which we created is designed to separate particles (on the order of 10-50 microns) differentially by size using a pinched flow fractionation system (Figure 1). This technology relies on the larger particles interacting with the solvent flow more than the smaller particles based solely on their size when fed through a pinch point. Further, the separation efficiency can be modulated by altering the flow rates of the two input streams. A higher solute containing flow rates will result in a poorer separation as more fluid will shield the larger particles from the other solvent stream. Thus, this system is tunable. 
-
-# Design Considerations
-When designing our microfluidic mold, there were several parameters that we took into consideration. First was the size of the channels. With the Form 3 SLA printer we have a feature size resolution of 25 microns. While Yamada et al. created channels of 50 microns, we were concerned that this size of channel would not be preserved in our final PDMS device. Thus, the pinched section of our flow fractionation device was dimensioned at 100 microns. The angle at which the streams meet is 22.4 degrees, which is low enough to maintain laminar flow when the streams meet. Further, the pinched section opens up to one millimeter, which allows enough space for the particles to separate. See the dimensioned drawing for all measurements (Figure 2). 
-
-# Development Workflow
-
-The process of creating this device was relatively straightforward. We started with a CAD model designed in Fusion 360 of the negative of our final desired microfluidic device. We used the Form 3 printer in order to print our model with 25 micron resolution and full supports (to prevent warping). After washing we cured our model with the supports on (again to prevent warping) and finally coated the device with a thin layer of waxy parylene. After coating, we filled the molds with PDMS and let them cure overnight (Figure 3). From this point on, we mounted our devices on a glass slide with a plasma treater. The process created covalent bonds between the glass slide and the PDMS, which will prevent liquids from leaking out. To test our device we connected syringes to our access ports (Figure 4). This apparatus is compatible with our previously developed syringe pump, which allows us to specifically control the flow rate entering. 
-
-# Testing Apparatus
-
-The success of our model was preliminary investigated with a simple set up in which we attempted to separate 60 micron spherical particles (white). One inlet contained pure water while the other contained a visible cloudy solution of the particles in water. Both streams were fed to the device at similar flow rates. The outlet ports were collected in a 96 well plate (Figure 5). As is visible in the image, one outlet contained particles while the other did not. Since we do not have other sizes, it is difficult to compare the ability of our device to separate particles of different sizes as shown in figure 5. In the future, we are going to procure labeled beads of known sizes ranging from 20 microns to 80 micron and evaluate the separation underneath a microscope. 
-
-# Conclusions
-
-Overall, we can conclude that our device was successfully modeled and fabricated. The channels support laminar fluid flow without major introduction of air bubbles. The device shows preliminary evidence that it is able to separate particles of different sizes, however, more testing is needed in order to definitively determine this. Generally, this workflow was successful in the development of microfluidic devices and could be used for future projects with biomedical and chemical engineering applications. 
+Overall, this project sought to apply generative design to the development of SLS printable models. 
 
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5f43cc7128a5806f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Figure 1: Pinched Flow Fractioning Diagram (Yamada et al. 2004)
+## Figure 1: Rendered CAD model of the hanger
 
-![Figure 1: Pinched Flow Fractioning Diagram (Yamada et al. 2004)](/assets/img/PinchFlow.png)
+![Figure 1: Rendered CAD model of the hanger)](/assets/img/Hanger.png)
 
-## Figure 2: Dimensioned Drawing
-![Figure 2: Dimensioned Drawing](/assets/img/FlowDiagram.png)
+## Figure 2: Full assembly of the skateboard truck with the designed hanger
+![Figure 2: Full assembly of the skateboard truck with the designed hanger](/assets/img/Fluidic3.jpg)
 
-## Figure 3: Model cast in PDMS
-![Figure 3: Model cast in PDMS](/assets/img/Fluidic3.jpg)
+## Figure 3: Stress Diagram of the hanger with saftey factors included
+![Figure 3: Stress Diagram of the hanger with saftey factors included](/assets/img/StressDiagramHanger.png)
 
-## Figure 4: Testing Apparatus 
-![Figure 4: Model cast in PDMS](/assets/img/Fluidic1.jpg)
 
-## Figure 5: Results (White bead outflow on the right wells, pure solvent outflow on the left wells)
-![Figure 4: Model cast in PDMS](/assets/img/Fluidic2.jpg)
+## Figure 4: SLS printed model
+![Figure 4: SLS printed model](/assets/img/Fluidic1.jpg)
+
+
