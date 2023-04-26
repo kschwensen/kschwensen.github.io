@@ -29,7 +29,7 @@ Overall, this project sought to apply generative design to the development of SL
 ![Figure 1: Rendered CAD model of the hanger)](/assets/img/Hanger.png)
 
 ## Figure 2: Full assembly of the skateboard truck with the designed hanger
-![Figure 2: Full assembly of the skateboard truck with the designed hanger](/assets/img/HangerAssemby.png)
+![Figure 2: Full assembly of the skateboard truck with the designed hanger](/assets/img/HangerAssembly.png)
 
 ## Figure 3: Stress Diagram of the hanger with saftey factors included
 ![Figure 3: Stress Diagram of the hanger with saftey factors included](/assets/img/StressDiagramHanger.png)
