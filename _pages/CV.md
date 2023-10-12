@@ -5,7 +5,7 @@ title: "CV: Katrina Schwensen"
 ---
 
 ## I. Personal Information:
-As an undergraduate at Vanderbilt University and as part of the [Lippmann Lab](https://www.lippmannlab.com/), Katrina has developed relevant skills in Biomolecular Engineering and Technical Design. She hopes to continue to develop these skills in graduate school.
+As an undergraduate at Vanderbilt University and as part of the [Lippmann Lab](https://www.lippmannlab.com/) and [SyBBURE Undergraduate Research Fellowship](https://www.sybbure.org/), Katrina has developed relevant skills in Biomolecular Engineering and Technical Design. She hopes to continue to develop these skills in graduate school.
 * Email: katrina.r.schwensen@vanderbilt.edu
 
 ## II. Educational Background: 
@@ -46,4 +46,6 @@ As an undergraduate at Vanderbilt University and as part of the [Lippmann Lab](h
 * RT-qPCR
 * Synthetic dsRNA synthesis and design
 * Confocal Microscopy
+
+
   
