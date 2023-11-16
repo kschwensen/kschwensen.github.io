@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printing and Generative Design"
-excerpt: "Application of generative design to large format 3D printing for load bearing structures"
+title: "Drug Delivery to the Brain's Barriers"
+excerpt: "Potentiating siRNA to silence pathological gene expression in the barriers of the brain"
 header:
   image: /assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png
   teaser: /assets/img/DinoPodium2.jpg
