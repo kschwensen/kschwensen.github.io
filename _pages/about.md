@@ -2,8 +2,8 @@
 title: "About"
 excerpt: "Katrina, the scientist and person"
 header:
-  image: /assets/img/Mountain1.png
-  teaser: /assets/img/Mountain1.png
+  image: /assets/img/Mountain1.jpg
+  teaser: /assets/img/Mountain1.jpg
    
 ---
 
