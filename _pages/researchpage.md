@@ -2,8 +2,8 @@
 title: "Drug Delivery to the Brain's Barriers"
 excerpt: "Potentiating siRNA to silence pathological gene expression in the barriers of the brain"
 header:
-  image: /assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png
-  teaser: /assets/img/DinoPodium2.jpg
+  image: /assets/img/small tile_Stitched 20x ChP AQP1 CD31 (Overlay (2).png
+  teaser: /assets/img/20x ChP 2 AQP1 CD31 Image 3 (Overlay) (3).png
    
 ---
 
