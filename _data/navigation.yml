@@ -8,6 +8,9 @@ main:
     url: /_pages/researchpage
   - title: "Outreach"
     url: /_pages/outreach
+
+  - title: "Outreach"
+    url: /_pages/about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
