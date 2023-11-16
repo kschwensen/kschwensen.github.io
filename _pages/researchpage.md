@@ -1,5 +1,5 @@
 ---
-title: Digital Fabrication Projects
+title: Research Interests
 layout: collection
 permalink: /research/
 collection: research
