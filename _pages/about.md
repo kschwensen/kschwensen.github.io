@@ -1,6 +1,6 @@
 ---
-title: "Drug Delivery to the Brain's Barriers"
-excerpt: "Potentiating siRNA to silence pathological gene expression in the barriers of the brain"
+title: "About"
+excerpt: "Katrina, the scientist and person"
 header:
   image: /assets/img/Mountain1.png
   teaser: /assets/img/Mountain1.png
