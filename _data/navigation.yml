@@ -5,7 +5,7 @@ main:
   - title: "CV"
     url: /_pages/CV
   - title: "Research Interests"
-    url: /research/
+    url: /_pages/researchpage
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
