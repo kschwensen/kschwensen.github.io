@@ -11,4 +11,7 @@ My project is motivated by recent findings that cerebrovascular dysfunction occu
 
 
 
-![Rendered 3D model of the Podium)](/assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png)
+I had the opportunity to present this research project at BMES and AIChE Annual Meetings this year. Thank you to all who came and listened to my presentation, and keep an eye out for our papers coming out next spring detailing this project!
+
+![BMES Image)](/assets/img/BMES1.png)
+![BMES Image)](/assets/img/BMES2.png)
