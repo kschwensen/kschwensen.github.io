@@ -11,3 +11,4 @@ My project is motivated by recent findings that cerebrovascular dysfunction occu
 
 
 
+![Rendered 3D model of the Podium)](/assets/img/Podium_Iter4_2023-Apr-20_04-00-17PM-000_CustomizedView31917268051_png.png)
