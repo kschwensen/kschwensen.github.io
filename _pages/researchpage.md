@@ -11,6 +11,3 @@ This project is motivated by recent findings that cerebrovascular dysfunction oc
 
 
 
-![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium1.jpg)
-![A scaled down model of the podium printed without supports (dinosaurs for scale)](/assets/img/DinoPodium2.jpg)
-
