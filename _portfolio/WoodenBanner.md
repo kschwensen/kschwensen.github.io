@@ -1,2 +1,2 @@
 
-![video](/assets/img/GidhubBanner.mp4)
+![video](/assets/img/GHbanner.gif)
