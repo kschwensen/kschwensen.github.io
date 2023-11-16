@@ -1,7 +1,7 @@
 ---
 title: Digital Fabrication Projects
 layout: collection
-permalink: /portfolio/
+permalink: /ResearchInterests/
 collection: portfolio
 entries_layout: grid
 classes: wide
