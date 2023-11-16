@@ -2,7 +2,7 @@
 title: "Science Outreach"
 excerpt: "Mentoring the next generation of scientists"
 header:
-  image: /assets/img/VSVSBanner.png
+  image: /assets/img/VSVS-logo.png
   teaser: /assets/img/SyBBURE3.png
    
 ---
