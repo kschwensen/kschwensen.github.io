@@ -2,7 +2,7 @@
 title: Digital Fabrication Projects
 layout: collection
 permalink: /research/
-collection: portfolio
+collection: research
 entries_layout: grid
 classes: wide
 ---
