@@ -1,4 +1,3 @@
-
 ---
 title: Digital Fabrication Projects
 layout: collection
