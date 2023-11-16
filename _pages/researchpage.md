@@ -13,5 +13,5 @@ My project is motivated by recent findings that cerebrovascular dysfunction occu
 
 I had the opportunity to present this research project at BMES and AIChE Annual Meetings this year. Thank you to all who came and listened to my presentation, and keep an eye out for our papers coming out next spring detailing this project!
 
-![BMES Image)](/assets/img/BMES1.png)
-![BMES Image)](/assets/img/BMES2.png)
+![BMES Image)](/assets/img/BMES1.jpg)
+![BMES Image)](/assets/img/BMES2.jpg)
