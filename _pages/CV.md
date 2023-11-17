@@ -87,7 +87,7 @@ Characterized the electrocatalytic properties of monolayed electrodes
 
 # Publications
 
-_Schwensen, K.R.*_ ,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
+*Schwensen, K.R.**,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
 
 Sorets, A.G., Schwensen K.R., Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.”(in preparation).
 
