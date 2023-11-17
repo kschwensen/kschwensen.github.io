@@ -49,15 +49,15 @@ Hosted weekly power tools and laser cutting trainings sessions
 
 # Research Experience
 
-Vanderbilt University 								    Nashville, TN
-SyBBURE Searle Undergraduate Research Fellow				       Nov 2020 - present 
+## Vanderbilt University 								    Nashville, TN
+### SyBBURE Searle Undergraduate Research Fellow				       Nov 2020 - present 
 Advisor: Dr. Jon Ehrman
 The SyBBURE Searle Undergraduate Research seeks to incubate the next generation of scientists and engineers through mentorship and professional development opportunities.
 Selected as a fellow and awarded $11,000 per year to conduct academic research and fund personal design projects. 
 Collaborated with peers on the design projects developing smart self-watering hydroponic systems, ceramic 3D printers, microfluidic devices, and several interactive art pieces.
 Sought out collaborations with a diverse set of professors to assist with the design process.
 
-Neurovascular Engineering Laboratory			         		         Jan 2022 - present
+### Neurovascular Engineering Laboratory			         		         Jan 2022 - present
 Advisor: Dr. Ethan Lippmann
 Cerebrovascular dysfunction occurs at the initial stages of many neurodegenerative diseases, such as multiple sclerosis and can be mitigated with selective gene silencing. We aim to potentiate lipid-siRNA conjugates to target the brain’s barriers via intravenous administration routes.
 Designed and executed a wide range of biochemical experiments to evaluate the pharmacokinetic and gene silencing properties of our lipid-siRNA therapeutic. 
@@ -65,29 +65,29 @@ Developed and optimized complex protocols for single cell RNA-sequencing and end
 Demonstrated the first instance of siRNA delivery and activity in the barriers of the brain and analyzed the data to effectively disseminate the conclusions at national conferences.
 Collaborated with and mentored new graduate students who will continue the project.
 
-Capstone Senior Design 							       Nov 2024 - present
+### Capstone Senior Design 							       Nov 2024 - present
 Advisor: Dr. Scott Guelcher
 Bone cements are a powerful clinical tool to repair orthopedic injuries. Unfortunately, doctors do not always have the rheological/chemistry background to correctly apply these cements - which has caused numerous malpractice lawsuits. 
 Leveraging CAD software and SLA 3D printing, our team is creating a mixing attachment.
 Wrote formalized progress updates to our advisor.
 
-Mosquito Olfaction Laboratory			         	 		 Nov 2020 - April 2022
+### Mosquito Olfaction Laboratory			         	 		 Nov 2020 - April 2022
 Advisor: Dr. Laurence Zwiebel
 Mosquitoes are prolific carriers of deadly disease especially in less developed regions. With resistance and toxicity concerns surrounding traditional repellents and insecticides, there is a need for non-toxic repellent molecules.
 Evaluated the biological effect of substitution or addition of organic functional groups.
 Analyzed the results through large data set manipulation and statistical analysis
 
 
-University of Nebraska - Lincoln					  		       Lincoln, NE
-NCMN High School Researcher, Department of Chemistry			    May 2019 - Oct 2019
+## University of Nebraska - Lincoln					  		       Lincoln, NE
+### NCMN High School Researcher, Department of Chemistry			    May 2019 - Oct 2019
 Advisor: Dr. Rebecca Lai
 There is a technological gap in qualitative neuroscience in an inability to accurately detect neurotransmitter concentrations in the brain. 
 Synthesised monolayer coated carbon electrodes for sensing dopamine in the brain.
 Characterized the electrocatalytic properties of monolayed electrodes
 
- Publications
+# Publications
 
-Schwensen, K.R.* ,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
+_Schwensen, K.R.*_ ,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
 
 Sorets, A.G., Schwensen K.R., Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.”(in preparation).
 
