@@ -87,42 +87,41 @@ Characterized the electrocatalytic properties of monolayed electrodes
 
 # Publications
 
-*Schwensen, K.R.**,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
+**Schwensen, K.R.***,Sorets, A.G.*, Francini, N., Park J., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Potentiate Gene Silencing in Brain Barriers”.(in preparation).
 
-Sorets, A.G., Schwensen K.R., Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.”(in preparation).
+Sorets, A.G., **Schwensen K.R.**, Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.”(in preparation).
 
-Katdare, K.A., Kjar, A., O’Brown, N.M., Neal, E.H., Sorets, A.G., Shostak, A., Mlouk, K., Kim, H.,Horner K.B.,Schwensen, K.R., Schrag M.S., Megason S.G., Lippmann E.S. ‘IQGAP2 regulates blood-brain barrier immune dynamics’. (in preparation)
+Katdare, K.A., Kjar, A., O’Brown, N.M., Neal, E.H., Sorets, A.G., Shostak, A., Mlouk, K., Kim, H.,Horner K.B.,**Schwensen, K.R.**, Schrag M.S., Megason S.G., Lippmann E.S. ‘IQGAP2 regulates blood-brain barrier immune dynamics’. (in preparation)
 
 Abstracts, Presentations, and Seminars
 
 
-Schwensen, K.R. ,Sorets, A.G., Francini, N., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, November 9th). [Oral Presentation] AIChE Annual Meeting
+**Schwensen, K.R.** ,Sorets, A.G., Francini, N., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, November 9th). [Oral Presentation] AIChE Annual Meeting
 
-Sorets, A.G., Schwensen K.R., Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation siRNA-Lipid Conjugates for Enhanced Gene Targeting in the Brain after Central Administration” (2023, November 9th). [Invited Talk] AIChE Annual Meeting
+Sorets, A.G., **Schwensen, K.R.**., Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation siRNA-Lipid Conjugates for Enhanced Gene Targeting in the Brain after Central Administration” (2023, November 9th). [Invited Talk] AIChE Annual Meeting
 
-Schwensen, K.R. ,Sorets, A.G.,  Francini, N.,Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, October 12th). [Oral Presentation] BMES Annual Meeting
+**Schwensen, K.R.** ,Sorets, A.G.,  Francini, N.,Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, October 12th). [Oral Presentation] BMES Annual Meeting
 
-Sorets, A.G., Schwensen K.R., Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., Ventura-Antunes, L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.” (2023, June 6th-9th). [Poster Presentation - Best Poster award]. Chan Zuckerberg Initiative NDCN 2023 Annual Meeting. 
-
-
-Schwensen, K.R., Francini, N. ,Sorets, A.G., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, April 11th). [Poster Presentation] Vanderbilt Undergraduate Research Fair
-
-Sorets, A.G., Schwensen K.R., Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA chemistry influences CNS distribution and gene silencing following CSF delivery.” (2023, January 23rd-26th). [Poster Presentation]. Keystone Symposia Drug Delivery to the Brain: Challenges and Progress.
-
-Sorets, A.G., Schwensen K.R., Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA conjugate broadly distributes in the CNS and silences Huntingtin expression following ICV delivery”. (2022, November 4th). [Poster Presentation] VINSE Nanoday Vanderbilt University.
+Sorets, A.G., **Schwensen, K.R.**, Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., Ventura-Antunes, L. Dani, Neil., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Next Generation lipid-siRNA conjugate enhances transport and gene silencing in the mouse CNS.” (2023, June 6th-9th). [Poster Presentation - Best Poster award]. Chan Zuckerberg Initiative NDCN 2023 Annual Meeting. 
 
 
-Schwensen, K.R., Sorets, A.G., & Lippmann, E.S. " PNA - Peptide Conjugate for Increased siRNA Bioavailability". (2022, November 14th). [1st Place Poster Presentation] AIChE Annual Conference
+**Schwensen, K.R.**., Francini, N. ,Sorets, A.G., Palmer D., Dani N., Schrag, M.S., Duvall C.L., & Lippmann, E.S. “Albumin-Binding Lipid-siRNA Conjugates Accumulate in Brain Endothelial Cells” (2023, April 11th). [Poster Presentation] Vanderbilt Undergraduate Research Fair
 
-Sorets, A.G., Schwensen K.R., Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA conjugate broadly distributes in the CNS and silences Huntingtin expression following ICV delivery”. (2022, October 28th). [Poster Presentation] Biomaterials Day Vanderbilt University. 
+Sorets, A.G., **Schwensen, K.R.**, Katdare, K.A., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA chemistry influences CNS distribution and gene silencing following CSF delivery.” (2023, January 23rd-26th). [Poster Presentation]. Keystone Symposia Drug Delivery to the Brain: Challenges and Progress.
 
-Schwensen, K.R.Martinez, L.A, Zwiebel, L.J, “Characterization of Volatile Vanderbilt University Allosteric Agonists as Repellents” (2022, April 11th) [Poster Presentation] Vanderbilt Undergraduate Research Fair
+Sorets, A.G., **Schwensen, K.R.**, Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA conjugate broadly distributes in the CNS and silences Huntingtin expression following ICV delivery”. (2022, November 4th). [Poster Presentation] VINSE Nanoday Vanderbilt University.
 
-Schwensen, K.R., Shultz, C., & Lai, R.Y. " Dopamine-modified Carbon Electrodes for Electrocatalytic Detection of Dopamine". (2019, August 7th). [1st Place Poster Presentation] Chemistry Departmental Summer Symposium
+**Schwensen, K.R.**, Sorets, A.G., & Lippmann, E.S. " PNA - Peptide Conjugate for Increased siRNA Bioavailability". (2022, November 14th). [1st Place Poster Presentation] AIChE Annual Conference
 
-Schwensen, K.R., Shultz, C., & Lai, R.Y. " Dopamine-modified Carbon Electrodes for Electrocatalytic Detection of Dopamine". (2019, August 7th). [Poster Presentation] University of Nebraska Summer Research Symposium
+Sorets, A.G., **Schwensen, K.R.**, Katdare, K., Francini, N., Shostak, A., Prusky, A.D., Schrag, M.S., Duvall C.L., & Lippmann E.S. “Lipid-siRNA conjugate broadly distributes in the CNS and silences Huntingtin expression following ICV delivery”. (2022, October 28th). [Poster Presentation] Biomaterials Day Vanderbilt University. 
 
-Honors and Awards
+**Schwensen, K.R.**, K.R.Martinez, L.A, Zwiebel, L.J, “Characterization of Volatile Vanderbilt University Allosteric Agonists as Repellents” (2022, April 11th) [Poster Presentation] Vanderbilt Undergraduate Research Fair
+
+**Schwensen, K.R.**, Shultz, C., & Lai, R.Y. " Dopamine-modified Carbon Electrodes for Electrocatalytic Detection of Dopamine". (2019, August 7th). [1st Place Poster Presentation] Chemistry Departmental Summer Symposium
+
+**Schwensen, K.R.**, Shultz, C., & Lai, R.Y. " Dopamine-modified Carbon Electrodes for Electrocatalytic Detection of Dopamine". (2019, August 7th). [Poster Presentation] University of Nebraska Summer Research Symposium
+
+# Honors and Awards
 
 
 Vanderbilt School of Engineering Travel Grant (2023)
@@ -131,7 +130,7 @@ Outstanding Junior Chemical Engineer (2022)
 Tau Beta Pi — National Engineering Honors Society Inductee (2022)
 SyBBURE Undergraduate Research Fellowship Awardee (2020)
 
-Relevant Skills
+# Relevant Skills
 
 Biomolecular Engineering
 Multi-Channel flow cytometry, nucleic acid synthesis, immunostaining (IHC), confocal microscopy, qRT-PCR, cell culture (cell lines), mouse work.
