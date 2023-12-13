@@ -6,7 +6,10 @@ header:
   teaser: /assets/img/Paludarium2.jpg
    
 ---
-This projects is the lastest in the Art x Engineering series. 
+This project is the latest in the Art x Engineering series. We sought to create a soothing piece with tranquil waterfall sounds for the SyBBURE office space, thus the idea for the Paludarium was born. This project was especially enjoyable as we collected many of the rocks from river valleys across the southeast on our climbing trips. Detailed instructions are incoming!
+
+
+
 <iframe width="315" height="560"
 src="hhttps://youtube.com/embed/giZ_f5iUZsI?si=k17lJcupGVJQ13Fq"
 title="YouTube video player" frameborder="0"
@@ -15,3 +18,4 @@ gyroscope; picture-in-picture;
 web-share"
 allowfullscreen></iframe>
 
+![Misty plants](/assets/img/Paludarium2.jpg)
