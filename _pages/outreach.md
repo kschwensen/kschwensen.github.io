@@ -22,4 +22,4 @@ Training session: The basics of microcontrollers,  how to build your own radar
 Pax learns to solder!
 
 ![prototype)](/assets/img/SyBBURE3.jpg)
-A group of SyBBURE fellows learned to used power tools and the laser cutter.
+A group of SyBBURE fellows learned to use power tools and the laser cutter.
