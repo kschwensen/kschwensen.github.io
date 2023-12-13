@@ -11,7 +11,7 @@ This project is the latest in the Art x Engineering series. We sought to create 
 
 
 <iframe width="315" height="560"
-src="hhttps://youtube.com/embed/giZ_f5iUZsI?si=k17lJcupGVJQ13Fq"
+src="https://youtube.com/embed/giZ_f5iUZsI?si=MIMufGWK846Hmt5N"
 title="YouTube video player" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture;
