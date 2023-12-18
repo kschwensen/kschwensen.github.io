@@ -1,5 +1,5 @@
 ---
-title: Digital Fabrication Projects
+title: Personal Projects
 layout: collection
 permalink: /portfolio/
 collection: portfolio
