@@ -1,4 +1,3 @@
-
 ---
 title: "SLS + Generative Design of a skateboard hanger"
 excerpt: "Application of SLS and generative design to printing to create a skateboard hanger"
