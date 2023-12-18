@@ -6,6 +6,8 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
+
+
 ---
 title: Digital Fabrication Projects
 layout: collection
