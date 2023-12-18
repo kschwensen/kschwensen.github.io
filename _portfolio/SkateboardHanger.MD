@@ -8,7 +8,7 @@ header:
 ---
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTTQ2HZWyU2tx0DGKOUQ0YGzm8sT6MKaP6Ip6U3Bs1MnYcoEvXMdJBvfLZbChp3BNu5f0KkYFjOf-6N/pub?embedded=true"width="800" height="640" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTTQ2HZWyU2tx0DGKOUQ0YGzm8sT6MKaP6Ip6U3Bs1MnYcoEvXMdJBvfLZbChp3BNu5f0KkYFjOf-6N/pub?embedded=true" width="800" height="640" allowfullscreen="true"></iframe>
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5f43cc7128a5806f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
